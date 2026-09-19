@@ -120,7 +120,7 @@ Because it depends on private upstream internals, future `dg/ftp-deployment` ver
 
 ## Author
 
-Jan Kuželka — https://kuzelka.dev
+Jan Kuželka — [https://kuzelka.dev](https://kuzelka.dev)
 
 ## License
 
