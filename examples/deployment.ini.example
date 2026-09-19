@@ -1,0 +1,18 @@
+[production]
+remote = ftp://user:password@example.com/public_html
+local = .
+
+; Keep these paths out of the local deployment scan.
+ignore = "
+    /vendor
+    /deployment.*
+"
+
+; Also remove their entries from the remote deployment state before deployment.
+; This prevents dg/ftp-deployment from treating them as obsolete remote files.
+ignoreRemote = "
+    /vendor
+"
+
+allowDelete = yes
+deploymentFile = .deployment

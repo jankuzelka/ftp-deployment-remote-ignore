@@ -1,0 +1,19 @@
+{
+  "name": "jankuzelka/ftp-deployment-remote-ignore",
+  "description": "Remote-only ignore layer for dg/ftp-deployment.",
+  "type": "library",
+  "license": "BSD-3-Clause",
+  "require": {
+    "php": ">=7.1.26",
+    "ext-zlib": "*",
+    "dg/ftp-deployment": "^3.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "RemoteIgnore\\": "src/"
+    }
+  },
+  "bin": [
+    "bin/deployment.php"
+  ]
+}
