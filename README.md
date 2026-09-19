@@ -118,6 +118,10 @@ This is intentionally a small compatibility layer rather than a fork of `dg/ftp-
 
 Because it depends on private upstream internals, future `dg/ftp-deployment` versions can require compatibility changes.
 
+## Author
+
+Jan Kuželka — https://kuzelka.dev
+
 ## License
 
 BSD-3-Clause. See [`LICENSE`](LICENSE).
