@@ -122,6 +122,12 @@ Because it depends on private upstream internals, future `dg/ftp-deployment` ver
 
 Jan Kuželka — [https://kuzelka.dev](https://kuzelka.dev)
 
+## Support
+
+If you find this extension useful, you can support my work.
+
+[![Support my work](https://img.shields.io/badge/Support%20my%20work-2F81F7?logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/jankuzelka)
+
 ## License
 
 BSD-3-Clause. See [`LICENSE`](LICENSE).
